@@ -55,7 +55,7 @@ const About = () => {
             <h2 className="text-4xl font-bold mb-8 text-center">Our Story</h2>
             <div className="space-y-6 text-lg text-muted-foreground">
               <p>
-                Manali Beauty Studio was founded with a passion for making people look and feel
+                 Beauty Studio was founded with a passion for making people look and feel
                 their absolute best. What started as a small beauty parlor has grown into one of
                 the most trusted beauty studios in the region.
               </p>

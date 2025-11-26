@@ -39,7 +39,7 @@ const Admin = () => {
   const [loading, setLoading] = useState(true);
 
   // Simple password check (in production, use proper authentication)
-  const ADMIN_PASSWORD = "manali2024";
+  const ADMIN_PASSWORD = "studio2024";
 
   useEffect(() => {
     const authStatus = localStorage.getItem("adminAuthenticated");

@@ -94,7 +94,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Email</h3>
-                      <p className="text-muted-foreground">info@manalibeautystudio.com</p>
+                      <p className="text-muted-foreground">info@beautystudio.com</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -107,12 +107,12 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Instagram</h3>
                       <a
-                        href="https://www.instagram.com/manalibeautystudio/"
+                        href="https://www.instagram.com"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-primary hover:underline"
                       >
-                        @manalibeautystudio
+                        @beautystudio
                       </a>
                     </div>
                   </CardContent>
@@ -212,7 +212,7 @@ const Contact = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Manali Beauty Studio Location"
+              title=" Beauty Studio Location"
             />
           </div>
         </div>

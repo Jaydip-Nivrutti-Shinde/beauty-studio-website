@@ -42,7 +42,7 @@ const Home = () => {
       service: "Bridal Makeup",
       rating: 5,
       review:
-        "Absolutely amazing! The bridal makeup was flawless and lasted throughout my wedding day. Highly recommend Manali Beauty Studio!",
+        "Absolutely amazing! The bridal makeup was flawless and lasted throughout my wedding day. Highly recommend Beauty Studio!",
     },
     {
       name: "Neha Patel",
@@ -181,7 +181,7 @@ const Home = () => {
       <section className="py-20 bg-secondary/30">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">About Manali Beauty Studio</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6">About  Beauty Studio</h2>
             <p className="text-lg text-muted-foreground mb-8">
               We are a premier beauty studio dedicated to making you look and feel your absolute
               best. With years of experience and a passion for beauty, our team of expert

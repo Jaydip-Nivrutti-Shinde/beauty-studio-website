@@ -35,7 +35,7 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <h1 className="text-2xl md:text-3xl font-bold text-primary">
-              Manali Beauty Studio
+               Beauty Studio
             </h1>
           </Link>
 

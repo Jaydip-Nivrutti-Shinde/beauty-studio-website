@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* About Section */}
           <div>
-            <h3 className="text-xl font-bold text-primary mb-4">Manali Beauty Studio</h3>
+            <h3 className="text-xl font-bold text-primary mb-4"> Beauty Studio</h3>
             <p className="text-muted-foreground text-sm">
               Your destination for elegant beauty services. We bring out the best in you with our
               professional expertise and personalized care.
@@ -65,17 +65,17 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="w-4 h-4 text-primary mt-1 flex-shrink-0" />
-                <span className="text-muted-foreground">info@manalibeautystudio.com</span>
+                <span className="text-muted-foreground">info@beautystudio.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <Instagram className="w-4 h-4 text-primary mt-1 flex-shrink-0" />
                 <a
-                  href="https://www.instagram.com/manalibeautystudio/"
+                  href="https://www.instagram.com/beautystudio/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  @manalibeautystudio
+                  @beautystudio
                 </a>
               </li>
             </ul>
@@ -106,7 +106,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-border pt-6 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Manali Beauty Studio. All rights reserved.
+            © {new Date().getFullYear()}  Beauty Studio. All rights reserved.
           </p>
         </div>
       </div>

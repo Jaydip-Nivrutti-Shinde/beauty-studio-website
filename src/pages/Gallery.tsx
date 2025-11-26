@@ -73,13 +73,13 @@ const Gallery = () => {
             Stay updated with our latest work and special offers
           </p>
           <a
-            href="https://www.instagram.com/manalibeautystudio/"
+            href="https://www.instagram.com/beautystudio/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block"
           >
             <button className="bg-background text-foreground hover:bg-background/90 px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover-scale">
-              @manalibeautystudio
+              @beautystudio
             </button>
           </a>
         </div>
